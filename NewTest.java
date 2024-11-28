@@ -4,5 +4,6 @@ public class NewTest {
   @Test
   public void f() {
 	  System.out.println("Hi");
+	  System.out.println("Hi1");
   }
 }
